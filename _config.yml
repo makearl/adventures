@@ -4,7 +4,7 @@ header-img: img/MonteSano.jpg
 email: megkearl@gmail.com
 copyright_name: Grant and Megan
 description: "Megan and Grant's Travel Adventures"
-baseurl: "/adventures"
+baseurl: ""
 url: "http://adventures.meganandgrant.com"
 twitter_username: makearl
 github_username:  makearl
